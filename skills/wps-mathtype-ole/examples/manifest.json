@@ -1,0 +1,21 @@
+{
+  "equations": [
+    {
+      "id": "eq24",
+      "kind": "display",
+      "latex": "m(s)=\\min_{i}g_i(s)",
+      "number": "(24)"
+    },
+    {
+      "id": "eq1-1",
+      "kind": "display",
+      "latex": "a_{ij}=\\frac{x_i}{x_j}",
+      "number": "(1-1)"
+    },
+    {
+      "id": "inline1",
+      "kind": "inline",
+      "latex": "x_i<0"
+    }
+  ]
+}
